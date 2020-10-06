@@ -5,7 +5,7 @@ Flappy Bird Created 100% in python with the Modules Neat-Python,Tkinter,Pygame,r
 I know i'm not the first one to do it But Wanted To take this challenge to do it. And in the process of creating The flappy Bird i learned The Various Sections
 Game Desiging, Neural Networks, GUI etc
 ## Setup
-Install Python 3.6 or above and the Install The Following Modules using Pip:
+Install Python 3.6 or above and Install The Following Modules using Pip:
 1. Tkinter
 2. Pygame
 3. neat-python
