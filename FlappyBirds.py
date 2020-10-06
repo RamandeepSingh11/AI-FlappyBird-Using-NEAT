@@ -1,3 +1,7 @@
+"""
+The Classic Flappy Birds With an AI mode Bulit in
+Using Libraries Like Pygame,neat-python,random,tkinter with pixel perfect Collision.
+"""
 import pygame
 import os
 import sys
