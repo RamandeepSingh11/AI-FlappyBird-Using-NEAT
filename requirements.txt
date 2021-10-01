@@ -1,4 +1,4 @@
 pygame
 neat-python
-tkinter
+tk
 numpy
